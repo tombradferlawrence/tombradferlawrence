@@ -1,7 +1,7 @@
 ### Hello
 I'm a scientist interested in balancing the needs of people with wildlife. My work spans landscape ecology, species distribution models and nature-based solutions. I'm particularly interested in using 'new' technology for biodiversity monitoring, particularly acoustics.
 
-Please see my Google Scholar[https://scholar.google.com/citations?user=X6kUlQIAAAAJ&hl=en] page for publications.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=X6kUlQIAAAAJ&hl=en) page for publications.
 
 <!--
 **tombradferlawrence/tombradferlawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
