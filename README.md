@@ -1,5 +1,5 @@
 ### Hello
-I'm a scientist interested in balancing the needs of people with wildlife. My work spans landscape ecology, species distribution models and nature-based solutions. I'm particularly interested in using 'new' technology for biodiversity monitoring, particularly acoustics.
+I'm a scientist interested in balancing the needs of people with wildlife. My work spans landscape ecology, species distribution models and nature-based solutions. I'm interested in using 'new' technology for biodiversity monitoring, particularly acoustics, and I have developed or contributed to a range of best practice guidance in this area.
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=X6kUlQIAAAAJ&hl=en) page for publications.
 
