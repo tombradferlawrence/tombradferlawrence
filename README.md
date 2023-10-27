@@ -1,7 +1,7 @@
 ### Hello
 I'm a scientist interested in balancing the needs of people with wildlife. My work spans landscape ecology, species distribution models and nature-based solutions. I'm interested in using 'new' technology for biodiversity monitoring, particularly acoustics, and I have developed or contributed to a range of best practice guidance in this area.
 
-Please see my [Google Scholar](https://scholar.google.com/citations?user=X6kUlQIAAAAJ&hl=en) page for publications.
+My publications are available on my [Google Scholar](https://scholar.google.com/citations?user=X6kUlQIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Tom-Bradfer-Lawrence) pages.
 
 <!--
 **tombradferlawrence/tombradferlawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
